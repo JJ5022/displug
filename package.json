@@ -1,0 +1,22 @@
+{
+  "name": "displug",
+  "version": "0.0.0",
+  "description": "Plugins system for discord bots with web ui / interaction setup.",
+  "main": "dist/displug",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Junjie YONG",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "discord.js": "^13.6.0",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "mongoose": "^6.2.7",
+    "tslib": "^2.3.1"
+  }
+}
